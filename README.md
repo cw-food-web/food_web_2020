@@ -1,7 +1,7 @@
 # food_web_2020
-This repository holds scripts, datasets, and an Rmarkdown for the 2020 lake trout food web project. The contents of this repository are named and briefly described below.
+This repository holds scripts, datasets, and an Rmarkdown for the 2020 lake trout food web project. The contents of this repository are named and briefly described below.\
 
-The Rmarkdown provides a step-by-step explanation of the analyses in this project.
+The Rmarkdown provides a step-by-step explanation of the analyses in this project.\
 rmd_food_web_10012020_12.html (Rmarkdown html document explaining analyses with code chunks and figures)
 rmd_food_web_10012020_12.rmd (the R file to produce the html version of the Rmarkdown)
 
