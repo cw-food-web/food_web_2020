@@ -5,7 +5,7 @@ The Rmarkdown provides a step-by-step explanation of the analyses in this projec
 rmd_food_web_10012020_12.html (Rmarkdown html document explaining analyses with code chunks and figures)\
 rmd_food_web_10012020_12.rmd (the R file to produce the html version of the Rmarkdown)
 
-The unified R script is annotated, calls the study's main isotope dataset, and includes code to reproduce analyses. You will need to change file pathways in this script to match your computer's pathways to run the analyses.\
+The unified R script is annotated, calls the study's main isotope dataset, and includes code to reproduce analyses.\
 unified_food_web_script_08242020_29.R (study's main R script)\
 isotope_dataset_MT_lake_trout_food_web_11072020.csv (study's main dataset)
 
