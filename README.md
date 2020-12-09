@@ -15,7 +15,7 @@ lake_data.csv  (for NMDS ordinations)
 conversion_09302020_2.csv (for binomial regression)
 
 The lake trout diet MixSIAR script is separate from the unified script.\
-(lake trout diet R script)
+lake_trout_mixsiar_model_08272020_3.R (lake trout diet R script)
 (MixSIAR mixtures)
 (MixSIAR sources)
 (MixSIAR discrimination factors)
