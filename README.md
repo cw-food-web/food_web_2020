@@ -2,8 +2,8 @@
 This repository holds scripts, datasets, and an Rmarkdown for the 2020 lake trout food web project. The contents of this repository are named and briefly described below.
 
 The Rmarkdown provides a step-by-step explanation of the analyses in this project.\
-rmd_food_web_10012020_12.html (Rmarkdown html document explaining unified R script's analyses with code chunks and figures)\
-rmd_food_web_10012020_12.rmd (the R file to produce the html version of the Rmarkdown)
+rmd_food_web_10012020_14.html (Rmarkdown html document explaining unified R script's analyses with code chunks and figures)\
+rmd_food_web_10012020_14.rmd (the R file to produce the html version of the Rmarkdown)
 
 The unified R script is annotated, calls the study's main isotope dataset, and includes code to reproduce analyses.\
 unified_food_web_script_08242020_29.R (study's main R script)\
